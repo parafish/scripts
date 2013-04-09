@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 hadoop jar \
 	$HADOOP_HOME/contrib/streaming/hadoop-streaming-0.20.2-cdh3u3.jar \
-	-D stream.map.output.field.separator=""	\
 	-D mapred.job.name="parse raw startpagina to spaced separated"	\
-	-input startpagina/startpagina_csv	\
-	-output startpagina/startpagina_parsed3	\
+	-D mapred.map.tasks.speculative.execution=false	\
+	-D mapred.reduce.tasks.speculative.execution=false	\
+	-input startpagina/startpagina_csv/	\
+	-output startpagina/startpagina_parsed_600	\
 	-mapper mapper.py			\
-	-numReduceTasks 0	\
-	-file *.py	\
-
+	-reducer reducer.py			\
+	-numReduceTasks 600 		\
+	-file *.py	

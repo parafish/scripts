@@ -8,6 +8,7 @@ import os
 import httpagentparser
 import urlparse
 
+count = 0
 for line in sys.stdin:
 	filepath = os.environ.get('map_input_file', None)
 	if filepath:
@@ -39,4 +40,6 @@ for line in sys.stdin:
 		sys.stderr.write("reporter:counter:field.agent,malware,1")
 		sys.stderr.write("cannot parse user-agent: " + line[4] + "\n")
 	
-	print record.rstrip()
+	record = filepath + ':' + str(count) + '\t' + record.rstrip()
+	print record
+	count += 1
