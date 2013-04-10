@@ -8,13 +8,14 @@ import os
 import httpagentparser
 import urlparse
 
-count = 0
+count = 0L
 for line in sys.stdin:
 	filepath = os.environ.get('map_input_file', None)
 	if filepath:
 		date = os.path.split(filepath)[-1]
 	else:
 		date = None
+		filepath = ''
 	line = line.split()
 	record = ""
 	if date:
@@ -27,9 +28,15 @@ for line in sys.stdin:
 	record += 'website='+line[5] + " "
 
 	# parse the querystring
+	querystring = line[2].strip().strip('&')
+	qsl = querystring.split('&')
+	for p in qsl:
+		record += "query." + p + " "
+	'''
 	qsl = urlparse.parse_qsl(line[2])
 	for key, value in qsl:
 		record += "query." + key + "=" + value + " "
+	'''
 	
 	# parse the user-agent
 	try:
@@ -40,6 +47,6 @@ for line in sys.stdin:
 		sys.stderr.write("reporter:counter:field.agent,malware,1")
 		sys.stderr.write("cannot parse user-agent: " + line[4] + "\n")
 	
-	record = filepath + ':' + str(count) + '\t' + record.rstrip()
+	record = filepath + '&' + str(count) + '\t' + record.strip()
 	print record
 	count += 1

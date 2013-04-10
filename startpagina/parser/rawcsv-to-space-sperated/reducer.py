@@ -6,6 +6,6 @@ for line in sys.stdin:
 		key, record = line.strip().split('\t', 1)
 		print record
 	except ValueError:
-		print line.strip().rstrip()
+		print line.strip()
 		print >> sys.stderr, 'Error: ' + line
 		print >> sys.stderr, "reporter:counter:reducer,malformed,1"

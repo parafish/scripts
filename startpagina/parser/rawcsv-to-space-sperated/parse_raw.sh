@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
+SPLITS=100
 hadoop jar \
 	$HADOOP_HOME/contrib/streaming/hadoop-streaming-0.20.2-cdh3u3.jar \
-	-D mapred.job.name="parse raw startpagina to spaced separated"	\
+	-D mapred.job.name="startpagina, parse, space-separated, splits${SPLITS}"	\
 	-D mapred.map.tasks.speculative.execution=false	\
 	-D mapred.reduce.tasks.speculative.execution=false	\
-	-input startpagina/startpagina_csv/	\
-	-output startpagina/startpagina_parsed_600	\
+	-input startpagina/startpagina-csv/	\
+	-output startpagina/startpagina-parsed-${SPLITS}	\
 	-mapper mapper.py			\
 	-reducer reducer.py			\
-	-numReduceTasks 600 		\
+	-numReduceTasks ${SPLITS} 		\
 	-file *.py	
