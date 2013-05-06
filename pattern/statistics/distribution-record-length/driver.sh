@@ -4,8 +4,10 @@ hadoop jar \
 	-D mapred.job.name="count, record length"	\
 	-D mapred.map.tasks.speculative.execution=false	\
 	-D mapred.reduce.tasks.speculative.execution=false	\
-	-input startpagina/startpagina-parsed-600/	\
-	-output startpagina/startpagina-statistics/record-length	\
+	-D mapred.output.key.comparator.class=org.apache.hadoop.mapred.lib.KeyFieldBasedComparator \
+	-D  mapred.text.key.comparator.options=-n	\
+	-input /user/s117449/synthetic/d_20m_20_1k_10k_4.data/	\
+	-output /user/s117449/synthetic/d_20m_20_1k_10k_4-record-length	\
 	-mapper mapper.py			\
 	-combiner reducer.py		\
 	-reducer reducer.py			\

@@ -11,10 +11,11 @@ total = 0
 
 for line in sys.stdin:
 	length, c = line.split()
+	length = int(length)
 	c = int(c)
 	count[length] = c
 	nlines += c
-	total += int(length) * c
+	total += length * c
 
 x = []
 y = []
