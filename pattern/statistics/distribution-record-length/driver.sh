@@ -6,8 +6,8 @@ hadoop jar \
 	-D mapred.reduce.tasks.speculative.execution=false	\
 	-D mapred.output.key.comparator.class=org.apache.hadoop.mapred.lib.KeyFieldBasedComparator \
 	-D  mapred.text.key.comparator.options=-n	\
-	-input /user/s117449/synthetic/d_20m_20_1k_10k_4.data/	\
-	-output /user/s117449/synthetic/d_20m_20_1k_10k_4-record-length	\
+	-input /user/s117449/disc-datasets/adult/negative.data	\
+	-output /user/s117449/disc-datasets/adult/negative-statistics	\
 	-mapper mapper.py			\
 	-combiner reducer.py		\
 	-reducer reducer.py			\

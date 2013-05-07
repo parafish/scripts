@@ -25,7 +25,7 @@ plot(x, y)
 
 print "#trans: ", nlines
 print "Avg.len: ", total*1.0/nlines
-print "Minimum length: ", max(count.keys())
-print "maximum length: ", min(count.keys())
+print "Minimum length: ", min(count.keys())
+print "maximum length: ", max(count.keys())
 
 show()
