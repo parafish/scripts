@@ -3,7 +3,7 @@
 SAMPLE=$1
 MAPPER=100
 
-hadoop jar ~/test/jars/freqdriver.jar  \
+hadoop jar ~/test/jars/samplingdriver.jar freq \
 	-D mapred.job.name="scalability, startpagina, sample${SAMPLE}, mapper${MAPPER}" \
 	-D mapred.min.split.size=9223372036854775807 	\
 	-D mapred.map.tasks.speculative.execution=false	\
