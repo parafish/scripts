@@ -5,4 +5,4 @@ mahout fpg	\
 	-o output/fpg-accidents	\
 	-method mapreduce	\
 	-regex '[\ ]'		\
-	-k 3	
+	-k 1000
