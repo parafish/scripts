@@ -3,7 +3,7 @@
 SAMPLE=$1
 MAPPER=100
 
-hadoop jar ~/test/jars/freqdriver.jar  \
+hadoop jar ~/test/jars/samplingdriver.jar freq  \
 	-D mapred.job.name="scale-sample, syn-100m-20, sample${SAMPLE}, mapper${MAPPER}" \
 	-D mapred.map.tasks=${MAPPER}	\
 	-D mapred.map.tasks.speculative.execution=false	\
