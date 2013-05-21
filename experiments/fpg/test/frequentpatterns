@@ -1,0 +1,7 @@
+Running on hadoop, using /home/zheyi/sarahadoop/hadoop-0.20/bin/hadoop and HADOOP_CONF_DIR=
+MAHOUT-JOB: /home/zheyi/mahout-distribution-0.7/mahout-examples-0.7-job.jar
+Input Path: /user/s117449/output/fpg-test/frequentpatterns/part-r-00000
+Key class: class org.apache.hadoop.io.Text Value Class: class org.apache.mahout.fpm.pfpgrowth.convertors.string.TopKStringPatterns
+Key: 2: Value: ([3, 2],3)
+Key: 3: Value: ([3],4), ([3, 2],3)
+Count: 2
