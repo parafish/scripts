@@ -2,27 +2,30 @@
 
 import sys
 import json
-import collections
 
-patterns = collections.OrderedDict()
+patterns = dict() 
 allpatterns = set()
 minsupp = sys.maxint
 maxsupp = 0
 
 for line in sys.stdin:
 	if line.startswith('Key: '):
-		line = line.strip().replace('Key: ', '').replace('Value: ', '')
-		line = line.replace('(', '[').replace(')', ']')
-		key, value = line.split(': ')
-		p = json.loads('[' + value+ ']')
+		line = line.strip().replace('\t', '').replace('Key: ', '').replace('Value: ', '')	
+		key, value = line.split(': ', 1)
+		value = value[1:-1]
+		pairs = value.split('), (')
 		item_patterns = dict()
-		for pair in p:
-			item_patterns[json.dumps(sorted(pair[0]))] = int(pair[1])
+		for p in pairs:
+			pattern, count = p.rsplit(',', 1)
+			pattern = pattern[1:-1]
+			ps = pattern.split(', ')
+			item_patterns[json.dumps(sorted(ps))] = int(count)
 		patterns[key] = item_patterns		
 
 print "Item\tPttrns\tMinSupp\tMaxSupp"
 print "--------------------------------------------------"
-for k, v in patterns.items():
+for k in sorted(patterns.keys()):
+	v = patterns[k]
 	line = ""
 	line += k + '\t'
 	line += str(len(v))	+ '\t'
