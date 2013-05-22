@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
-mahout fpg	\
+SUPPORT=$1
+
+$MAHOUT_HOME/bin/mahout fpg	\
+	-Dmapred.reduce.tasks=1	\
 	-i fimi/accidents.dat	\
-	-o output/fpg-accidents	\
+	-o output/fpg-accidents-support${SUPPORT}	\
 	-method mapreduce	\
 	-regex '[\ ]'		\
-	-k 1000
+	-k ${SUPPORT}
