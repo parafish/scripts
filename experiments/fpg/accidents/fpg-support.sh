@@ -2,9 +2,8 @@
 
 SUPPORT=$1
 
-$MAHOUT_HOME/bin/mahout fpg	\
+$MAHOUT_HOME/bin/mahout fpg	 \
 	-i fimi/accidents.dat	\
-	-o output/fpg-accidents-support${SUPPORT}	\
+	-o output/fpg-accidents-support${SUPPORT}-test	\
 	-method mapreduce	\
-	-regex '[\ ]'		\
 	-s ${SUPPORT}

@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
 
-SUPPORT=$1	
+MAPPER=100
+THRESHOLD=$1
+SUPPORT=`echo "461566504*${THRESHOLD}*100/100" | bc`
 
-mahout fpg	\
-	-Dmapred.reduce.tasks=1	\
-	-i startpagina/startpagina-parsed-10	\
-	-o startpagina/output/fpg-support${SUPPORT}	\
+echo "Support = $SUPPORT"
+
+$MAHOUT_HOME/bin/mahout	fpg	\
+	-i startpagina/startpagina-parsed-${MAPPER}	\
+	-o output/fpg-startpagina-support${THRESHOLD}	\
 	-method mapreduce	\
 	-regex '[\ ]'		\
-	-s ${SUPPORT}	
+	-s $SUPPORT
