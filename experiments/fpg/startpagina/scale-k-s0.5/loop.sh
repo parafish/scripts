@@ -2,20 +2,22 @@
 
 MAPPER=100
 
-set -e
 set -x
+set -e
 
-for THRESHOLD in 0.04 0.03 0.02 0.01 0.001 0.0001 0.00001 0.000001
+THRESHOLD=0.5
+for k in 100 200 300 400 500 600 700 800 900 1000
 do 
 	for i in 1 2 3
 	do 
 		SUPPORT=`echo "461566504*${THRESHOLD}*100/100" | bc`
-		echo "Threshold=${THRESHOLD} Support=$SUPPORT Run=${i}"
+		echo "Threshold=${THRESHOLD} Support=$SUPPORT k=${k} Run=${i}"
 		$MAHOUT_HOME/bin/mahout	fpg	\
 			-i startpagina/startpagina-parsed-${MAPPER}	\
-			-o output/fpg-startpagina-support${THRESHOLD}-run${i}	\
+			-o output/fpg-startpagina-support${THRESHOLD}-k${k}-run${i}	\
 			-method mapreduce	\
 			-regex '[\ \t]'		\
-			-s $SUPPORT
+			-s $SUPPORT			\
+			-k ${k}
 	done
 done

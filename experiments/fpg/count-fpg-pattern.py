@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""
+input: 	the result from the PFP, i.e. mahout seqdumper -i <path-to-the-result>
+output:	the statistics of patterns
+"""
 
 import sys
 import json
