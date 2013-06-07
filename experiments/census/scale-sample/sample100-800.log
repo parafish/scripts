@@ -2966,3 +2966,848 @@ Job started: Mon Jun 03 10:15:26 CEST 2013
 13/06/03 13:13:23 INFO mapred.JobClient:  map 37% reduce 0%
 13/06/03 13:17:36 INFO mapred.JobClient:  map 38% reduce 0%
 13/06/03 13:21:41 INFO mapred.JobClient:  map 39% reduce 0%
+13/06/03 13:25:48 INFO mapred.JobClient:  map 40% reduce 0%
+13/06/03 13:30:08 INFO mapred.JobClient:  map 41% reduce 0%
+13/06/03 13:34:30 INFO mapred.JobClient:  map 42% reduce 0%
+13/06/03 13:39:40 INFO mapred.JobClient:  map 43% reduce 0%
+13/06/03 13:44:37 INFO mapred.JobClient:  map 44% reduce 0%
+13/06/03 13:50:06 INFO mapred.JobClient:  map 45% reduce 0%
+13/06/03 13:54:47 INFO mapred.JobClient:  map 46% reduce 0%
+13/06/03 14:00:07 INFO mapred.JobClient:  map 47% reduce 0%
+13/06/03 14:04:47 INFO mapred.JobClient:  map 48% reduce 0%
+13/06/03 14:09:29 INFO mapred.JobClient:  map 49% reduce 0%
+13/06/03 14:13:57 INFO mapred.JobClient:  map 50% reduce 0%
+13/06/03 14:18:22 INFO mapred.JobClient:  map 51% reduce 0%
+13/06/03 14:23:33 INFO mapred.JobClient:  map 52% reduce 0%
+13/06/03 14:27:58 INFO mapred.JobClient:  map 53% reduce 0%
+13/06/03 14:32:23 INFO mapred.JobClient:  map 54% reduce 0%
+13/06/03 14:37:18 INFO mapred.JobClient:  map 55% reduce 0%
+13/06/03 14:41:58 INFO mapred.JobClient:  map 56% reduce 0%
+13/06/03 14:46:16 INFO mapred.JobClient:  map 57% reduce 0%
+13/06/03 14:50:45 INFO mapred.JobClient:  map 58% reduce 0%
+13/06/03 14:54:59 INFO mapred.JobClient:  map 59% reduce 0%
+13/06/03 14:59:12 INFO mapred.JobClient:  map 60% reduce 0%
+13/06/03 15:03:42 INFO mapred.JobClient:  map 61% reduce 0%
+13/06/03 15:08:03 INFO mapred.JobClient:  map 62% reduce 0%
+13/06/03 15:12:16 INFO mapred.JobClient:  map 63% reduce 0%
+13/06/03 15:16:12 INFO mapred.JobClient:  map 64% reduce 0%
+13/06/03 15:20:15 INFO mapred.JobClient:  map 65% reduce 0%
+13/06/03 15:24:22 INFO mapred.JobClient:  map 66% reduce 0%
+13/06/03 15:28:38 INFO mapred.JobClient:  map 67% reduce 0%
+13/06/03 15:33:10 INFO mapred.JobClient:  map 68% reduce 0%
+13/06/03 15:37:49 INFO mapred.JobClient:  map 69% reduce 0%
+13/06/03 15:42:37 INFO mapred.JobClient:  map 70% reduce 0%
+13/06/03 15:47:34 INFO mapred.JobClient:  map 71% reduce 0%
+13/06/03 15:53:32 INFO mapred.JobClient:  map 72% reduce 0%
+13/06/03 15:58:56 INFO mapred.JobClient:  map 73% reduce 0%
+13/06/03 16:04:28 INFO mapred.JobClient:  map 74% reduce 0%
+13/06/03 16:09:50 INFO mapred.JobClient:  map 75% reduce 0%
+13/06/03 16:15:12 INFO mapred.JobClient:  map 76% reduce 0%
+13/06/03 16:20:55 INFO mapred.JobClient:  map 77% reduce 0%
+13/06/03 16:26:22 INFO mapred.JobClient:  map 78% reduce 0%
+13/06/03 16:31:42 INFO mapred.JobClient:  map 79% reduce 0%
+13/06/03 16:37:22 INFO mapred.JobClient:  map 80% reduce 0%
+13/06/03 16:42:18 INFO mapred.JobClient:  map 81% reduce 0%
+13/06/03 16:47:15 INFO mapred.JobClient:  map 82% reduce 0%
+13/06/03 16:51:54 INFO mapred.JobClient:  map 83% reduce 0%
+13/06/03 16:56:39 INFO mapred.JobClient:  map 84% reduce 0%
+13/06/03 17:01:35 INFO mapred.JobClient:  map 85% reduce 0%
+13/06/03 17:06:35 INFO mapred.JobClient:  map 86% reduce 0%
+13/06/03 17:11:57 INFO mapred.JobClient:  map 87% reduce 0%
+13/06/03 17:17:05 INFO mapred.JobClient:  map 88% reduce 0%
+13/06/03 17:22:23 INFO mapred.JobClient:  map 89% reduce 0%
+13/06/03 17:27:42 INFO mapred.JobClient:  map 90% reduce 0%
+13/06/03 17:33:04 INFO mapred.JobClient:  map 91% reduce 0%
+13/06/03 17:38:49 INFO mapred.JobClient:  map 92% reduce 0%
+13/06/03 17:44:07 INFO mapred.JobClient:  map 93% reduce 0%
+13/06/03 17:50:09 INFO mapred.JobClient:  map 94% reduce 0%
+13/06/03 17:57:14 INFO mapred.JobClient:  map 95% reduce 0%
+13/06/03 18:05:49 INFO mapred.JobClient:  map 96% reduce 0%
+13/06/03 18:15:10 INFO mapred.JobClient:  map 97% reduce 0%
+13/06/03 18:31:26 INFO mapred.JobClient:  map 98% reduce 0%
+13/06/03 19:08:10 INFO mapred.JobClient:  map 99% reduce 0%
+13/06/03 19:29:10 INFO mapred.JobClient:  map 99% reduce 30%
+13/06/03 19:43:19 INFO mapred.JobClient:  map 99% reduce 31%
+13/06/03 19:56:31 INFO mapred.JobClient:  map 99% reduce 32%
+13/06/03 20:41:34 INFO mapred.JobClient:  map 100% reduce 32%
+13/06/03 20:41:36 INFO mapred.JobClient:  map 100% reduce 33%
+13/06/03 20:41:39 INFO mapred.JobClient:  map 100% reduce 66%
+13/06/03 20:41:43 INFO mapred.JobClient:  map 100% reduce 100%
+13/06/03 20:41:44 INFO mapred.JobClient: Job complete: job_201305151711_14011
+13/06/03 20:41:44 INFO mapred.JobClient: Counters: 34
+13/06/03 20:41:44 INFO mapred.JobClient:   Job Counters 
+13/06/03 20:41:44 INFO mapred.JobClient:     Launched reduce tasks=1
+13/06/03 20:41:44 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=2904873880
+13/06/03 20:41:44 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+13/06/03 20:41:44 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+13/06/03 20:41:44 INFO mapred.JobClient:     Rack-local map tasks=83
+13/06/03 20:41:44 INFO mapred.JobClient:     Launched map tasks=100
+13/06/03 20:41:44 INFO mapred.JobClient:     Data-local map tasks=4
+13/06/03 20:41:44 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=4365407
+13/06/03 20:41:44 INFO mapred.JobClient:   edu.tue.cs.capa.util.DpsCounters
+13/06/03 20:41:44 INFO mapred.JobClient:     RECORD_TUPLES=5212353256
+13/06/03 20:41:44 INFO mapred.JobClient:     SUCC_SAMPLE_TIMES=1169358
+13/06/03 20:41:44 INFO mapred.JobClient:     OVERFLOWED_TIMES=21200
+13/06/03 20:41:44 INFO mapred.JobClient:     SUCC_DRY_RUN_TIMES=1169669
+13/06/03 20:41:44 INFO mapred.JobClient:     SKIPPED_TUPLES=5211577394
+13/06/03 20:41:44 INFO mapred.JobClient:     TOTAL_DRY_RUN_TIMES=3127411953600
+13/06/03 20:41:44 INFO mapred.JobClient:   FileSystemCounters
+13/06/03 20:41:44 INFO mapred.JobClient:     FILE_BYTES_READ=1527453
+13/06/03 20:41:44 INFO mapred.JobClient:     HDFS_BYTES_READ=9604700108
+13/06/03 20:41:44 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=9188147
+13/06/03 20:41:44 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=102359
+13/06/03 20:41:44 INFO mapred.JobClient:   Map-Reduce Framework
+13/06/03 20:41:44 INFO mapred.JobClient:     Map input records=18568
+13/06/03 20:41:44 INFO mapred.JobClient:     Reduce shuffle bytes=1536374
+13/06/03 20:41:44 INFO mapred.JobClient:     Spilled Records=120000
+13/06/03 20:41:44 INFO mapred.JobClient:     Map output bytes=14024614
+13/06/03 20:41:44 INFO mapred.JobClient:     CPU time spent (ms)=2559927370
+13/06/03 20:41:44 INFO mapred.JobClient:     Total committed heap usage (bytes)=74013868032
+13/06/03 20:41:44 INFO mapred.JobClient:     Map input bytes=8852755
+13/06/03 20:41:44 INFO mapred.JobClient:     Combine input records=0
+13/06/03 20:41:44 INFO mapred.JobClient:     SPLIT_RAW_BYTES=13500
+13/06/03 20:41:44 INFO mapred.JobClient:     Reduce input records=600
+13/06/03 20:41:44 INFO mapred.JobClient:     Reduce input groups=21
+13/06/03 20:41:44 INFO mapred.JobClient:     Combine output records=0
+13/06/03 20:41:44 INFO mapred.JobClient:     Physical memory (bytes) snapshot=47941369856
+13/06/03 20:41:44 INFO mapred.JobClient:     Reduce output records=600
+13/06/03 20:41:44 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=271143903232
+13/06/03 20:41:44 INFO mapred.JobClient:     Map output records=60000
+Job ended: Mon Jun 03 20:41:44 CEST 2013
+The job took 37577.85 seconds.
+sample=700 run=1
+DistributedPatternSampling (scale-mapper, disc, sample700, mapper100)
+	Input paths: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/disc-datasets/census/positive.data
+	Output path: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/output/disc-census-sample700-mapper100-run1
+	Sample:	700
+	Mappers: 100
+	Reducers: 1
+	Configurations: 
+			Right dataset path: /user/s117449/disc-datasets/census/negative-expanded/negative.data-expanded-584
+			Length of lines in the right dataset: 585
+			Maiximum record length: 50
+			Minimum Pattern length: 0
+Job started: Mon Jun 03 20:41:49 CEST 2013
+13/06/03 20:41:50 INFO hdfs.DFSClient: Created HDFS_DELEGATION_TOKEN token 195276 for s117449 on 145.100.41.4:8020
+13/06/03 20:41:50 INFO security.TokenCache: Got dt for hdfs://p-head03.alley.sara.nl:8020/tmp/hadoop-mapred/mapred/staging/s117449/.staging/job_201305151711_14824;uri=145.100.41.4:8020;t.service=145.100.41.4:8020
+13/06/03 20:41:50 WARN snappy.LoadSnappy: Snappy native library is available
+13/06/03 20:41:50 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+13/06/03 20:41:50 INFO snappy.LoadSnappy: Snappy native library loaded
+13/06/03 20:41:50 INFO mapred.FileInputFormat: Total input paths to process : 1
+13/06/03 20:41:51 INFO mapred.JobClient: Running job: job_201305151711_14824
+13/06/03 20:41:52 INFO mapred.JobClient:  map 0% reduce 0%
+13/06/03 20:47:46 INFO mapred.JobClient:  map 1% reduce 0%
+13/06/03 20:53:17 INFO mapred.JobClient:  map 2% reduce 0%
+13/06/03 20:59:21 INFO mapred.JobClient:  map 3% reduce 0%
+13/06/03 21:04:45 INFO mapred.JobClient:  map 4% reduce 0%
+13/06/03 21:10:08 INFO mapred.JobClient:  map 5% reduce 0%
+13/06/03 21:15:15 INFO mapred.JobClient:  map 6% reduce 0%
+13/06/03 21:20:47 INFO mapred.JobClient:  map 7% reduce 0%
+13/06/03 21:26:03 INFO mapred.JobClient:  map 8% reduce 0%
+13/06/03 21:30:37 INFO mapred.JobClient:  map 9% reduce 0%
+13/06/03 21:35:06 INFO mapred.JobClient:  map 10% reduce 0%
+13/06/03 21:39:39 INFO mapred.JobClient:  map 11% reduce 0%
+13/06/03 21:44:16 INFO mapred.JobClient:  map 12% reduce 0%
+13/06/03 21:48:45 INFO mapred.JobClient:  map 13% reduce 0%
+13/06/03 21:53:21 INFO mapred.JobClient:  map 14% reduce 0%
+13/06/03 21:57:47 INFO mapred.JobClient:  map 15% reduce 0%
+13/06/03 22:02:20 INFO mapred.JobClient:  map 16% reduce 0%
+13/06/03 22:07:17 INFO mapred.JobClient:  map 17% reduce 0%
+13/06/03 22:12:01 INFO mapred.JobClient:  map 18% reduce 0%
+13/06/03 22:16:28 INFO mapred.JobClient:  map 19% reduce 0%
+13/06/03 22:20:53 INFO mapred.JobClient:  map 20% reduce 0%
+13/06/03 22:25:13 INFO mapred.JobClient:  map 21% reduce 0%
+13/06/03 22:29:46 INFO mapred.JobClient:  map 22% reduce 0%
+13/06/03 22:34:26 INFO mapred.JobClient:  map 23% reduce 0%
+13/06/03 22:39:00 INFO mapred.JobClient:  map 24% reduce 0%
+13/06/03 22:43:50 INFO mapred.JobClient:  map 25% reduce 0%
+13/06/03 22:48:08 INFO mapred.JobClient:  map 26% reduce 0%
+13/06/03 22:52:24 INFO mapred.JobClient:  map 27% reduce 0%
+13/06/03 22:56:51 INFO mapred.JobClient:  map 28% reduce 0%
+13/06/03 23:01:25 INFO mapred.JobClient:  map 29% reduce 0%
+13/06/03 23:05:49 INFO mapred.JobClient:  map 30% reduce 0%
+13/06/03 23:10:18 INFO mapred.JobClient:  map 31% reduce 0%
+13/06/03 23:14:46 INFO mapred.JobClient:  map 32% reduce 0%
+13/06/03 23:19:20 INFO mapred.JobClient:  map 33% reduce 0%
+13/06/03 23:24:18 INFO mapred.JobClient:  map 34% reduce 0%
+13/06/03 23:29:10 INFO mapred.JobClient:  map 35% reduce 0%
+13/06/03 23:33:40 INFO mapred.JobClient:  map 36% reduce 0%
+13/06/03 23:38:16 INFO mapred.JobClient:  map 37% reduce 0%
+13/06/03 23:42:37 INFO mapred.JobClient:  map 38% reduce 0%
+13/06/03 23:47:38 INFO mapred.JobClient:  map 39% reduce 0%
+13/06/03 23:53:07 INFO mapred.JobClient:  map 40% reduce 0%
+13/06/03 23:58:15 INFO mapred.JobClient:  map 41% reduce 0%
+13/06/04 00:03:01 INFO mapred.JobClient:  map 42% reduce 0%
+13/06/04 00:07:31 INFO mapred.JobClient:  map 43% reduce 0%
+13/06/04 00:12:07 INFO mapred.JobClient:  map 44% reduce 0%
+13/06/04 00:16:34 INFO mapred.JobClient:  map 45% reduce 0%
+13/06/04 00:20:58 INFO mapred.JobClient:  map 46% reduce 0%
+13/06/04 00:25:23 INFO mapred.JobClient:  map 47% reduce 0%
+13/06/04 00:29:47 INFO mapred.JobClient:  map 48% reduce 0%
+13/06/04 00:34:08 INFO mapred.JobClient:  map 49% reduce 0%
+13/06/04 00:38:28 INFO mapred.JobClient:  map 50% reduce 0%
+13/06/04 00:42:58 INFO mapred.JobClient:  map 51% reduce 0%
+13/06/04 00:47:18 INFO mapred.JobClient:  map 52% reduce 0%
+13/06/04 00:51:45 INFO mapred.JobClient:  map 53% reduce 0%
+13/06/04 00:56:07 INFO mapred.JobClient:  map 54% reduce 0%
+13/06/04 01:00:28 INFO mapred.JobClient:  map 55% reduce 0%
+13/06/04 01:04:46 INFO mapred.JobClient:  map 56% reduce 0%
+13/06/04 01:09:15 INFO mapred.JobClient:  map 57% reduce 0%
+13/06/04 01:13:41 INFO mapred.JobClient:  map 58% reduce 0%
+13/06/04 01:18:08 INFO mapred.JobClient:  map 59% reduce 0%
+13/06/04 01:22:32 INFO mapred.JobClient:  map 60% reduce 0%
+13/06/04 01:26:47 INFO mapred.JobClient:  map 61% reduce 0%
+13/06/04 01:31:18 INFO mapred.JobClient:  map 62% reduce 0%
+13/06/04 01:35:33 INFO mapred.JobClient:  map 63% reduce 0%
+13/06/04 01:39:53 INFO mapred.JobClient:  map 64% reduce 0%
+13/06/04 01:44:16 INFO mapred.JobClient:  map 65% reduce 0%
+13/06/04 01:48:34 INFO mapred.JobClient:  map 66% reduce 0%
+13/06/04 01:52:54 INFO mapred.JobClient:  map 67% reduce 0%
+13/06/04 01:57:14 INFO mapred.JobClient:  map 68% reduce 0%
+13/06/04 02:01:39 INFO mapred.JobClient:  map 69% reduce 0%
+13/06/04 02:06:05 INFO mapred.JobClient:  map 70% reduce 0%
+13/06/04 02:10:18 INFO mapred.JobClient:  map 71% reduce 0%
+13/06/04 02:14:42 INFO mapred.JobClient:  map 72% reduce 0%
+13/06/04 02:18:49 INFO mapred.JobClient:  map 73% reduce 0%
+13/06/04 02:23:10 INFO mapred.JobClient:  map 74% reduce 0%
+13/06/04 02:27:32 INFO mapred.JobClient:  map 75% reduce 0%
+13/06/04 02:31:54 INFO mapred.JobClient:  map 76% reduce 0%
+13/06/04 02:36:21 INFO mapred.JobClient:  map 77% reduce 0%
+13/06/04 02:40:39 INFO mapred.JobClient:  map 78% reduce 0%
+13/06/04 02:45:02 INFO mapred.JobClient:  map 79% reduce 0%
+13/06/04 02:49:13 INFO mapred.JobClient:  map 80% reduce 0%
+13/06/04 02:53:31 INFO mapred.JobClient:  map 81% reduce 0%
+13/06/04 02:57:57 INFO mapred.JobClient:  map 82% reduce 0%
+13/06/04 03:02:15 INFO mapred.JobClient:  map 83% reduce 0%
+13/06/04 03:06:36 INFO mapred.JobClient:  map 84% reduce 0%
+13/06/04 03:10:54 INFO mapred.JobClient:  map 85% reduce 0%
+13/06/04 03:15:18 INFO mapred.JobClient:  map 86% reduce 0%
+13/06/04 03:19:43 INFO mapred.JobClient:  map 87% reduce 0%
+13/06/04 03:24:10 INFO mapred.JobClient:  map 88% reduce 0%
+13/06/04 03:28:29 INFO mapred.JobClient:  map 89% reduce 0%
+13/06/04 03:32:51 INFO mapred.JobClient:  map 90% reduce 0%
+13/06/04 03:37:12 INFO mapred.JobClient:  map 91% reduce 0%
+13/06/04 03:41:35 INFO mapred.JobClient:  map 92% reduce 0%
+13/06/04 03:46:00 INFO mapred.JobClient:  map 93% reduce 0%
+13/06/04 03:50:17 INFO mapred.JobClient:  map 94% reduce 0%
+13/06/04 03:54:37 INFO mapred.JobClient:  map 95% reduce 0%
+13/06/04 03:59:06 INFO mapred.JobClient:  map 96% reduce 0%
+13/06/04 04:03:40 INFO mapred.JobClient:  map 97% reduce 0%
+13/06/04 04:09:00 INFO mapred.JobClient:  map 98% reduce 0%
+13/06/04 04:18:03 INFO mapred.JobClient:  map 99% reduce 0%
+13/06/04 04:35:09 INFO mapred.JobClient:  map 99% reduce 30%
+13/06/04 04:39:37 INFO mapred.JobClient:  map 99% reduce 31%
+13/06/04 04:42:19 INFO mapred.JobClient:  map 99% reduce 32%
+13/06/04 05:25:58 INFO mapred.JobClient:  map 100% reduce 32%
+13/06/04 05:26:08 INFO mapred.JobClient:  map 100% reduce 66%
+13/06/04 05:26:12 INFO mapred.JobClient:  map 100% reduce 100%
+13/06/04 05:26:13 INFO mapred.JobClient: Job complete: job_201305151711_14824
+13/06/04 05:26:13 INFO mapred.JobClient: Counters: 34
+13/06/04 05:26:13 INFO mapred.JobClient:   Job Counters 
+13/06/04 05:26:13 INFO mapred.JobClient:     Launched reduce tasks=1
+13/06/04 05:26:13 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=2745064694
+13/06/04 05:26:13 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+13/06/04 05:26:13 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+13/06/04 05:26:13 INFO mapred.JobClient:     Rack-local map tasks=90
+13/06/04 05:26:13 INFO mapred.JobClient:     Launched map tasks=100
+13/06/04 05:26:13 INFO mapred.JobClient:     Data-local map tasks=8
+13/06/04 05:26:13 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=3071679
+13/06/04 05:26:13 INFO mapred.JobClient:   edu.tue.cs.capa.util.DpsCounters
+13/06/04 05:26:13 INFO mapred.JobClient:     RECORD_TUPLES=5212353256
+13/06/04 05:26:13 INFO mapred.JobClient:     SUCC_SAMPLE_TIMES=1366017
+13/06/04 05:26:13 INFO mapred.JobClient:     OVERFLOWED_TIMES=24414
+13/06/04 05:26:13 INFO mapred.JobClient:     SUCC_DRY_RUN_TIMES=1366382
+13/06/04 05:26:13 INFO mapred.JobClient:     SKIPPED_TUPLES=5211457313
+13/06/04 05:26:13 INFO mapred.JobClient:     TOTAL_DRY_RUN_TIMES=3648647279200
+13/06/04 05:26:13 INFO mapred.JobClient:   FileSystemCounters
+13/06/04 05:26:13 INFO mapred.JobClient:     FILE_BYTES_READ=1778414
+13/06/04 05:26:13 INFO mapred.JobClient:     HDFS_BYTES_READ=11217826627
+13/06/04 05:26:13 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=9690736
+13/06/04 05:26:13 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=118512
+13/06/04 05:26:13 INFO mapred.JobClient:   Map-Reduce Framework
+13/06/04 05:26:13 INFO mapred.JobClient:     Map input records=18568
+13/06/04 05:26:13 INFO mapred.JobClient:     Reduce shuffle bytes=1788002
+13/06/04 05:26:13 INFO mapred.JobClient:     Spilled Records=140000
+13/06/04 05:26:13 INFO mapred.JobClient:     Map output bytes=16361865
+13/06/04 05:26:13 INFO mapred.JobClient:     CPU time spent (ms)=2667377650
+13/06/04 05:26:13 INFO mapred.JobClient:     Total committed heap usage (bytes)=73463037952
+13/06/04 05:26:13 INFO mapred.JobClient:     Map input bytes=8852755
+13/06/04 05:26:13 INFO mapred.JobClient:     Combine input records=0
+13/06/04 05:26:13 INFO mapred.JobClient:     SPLIT_RAW_BYTES=13500
+13/06/04 05:26:13 INFO mapred.JobClient:     Reduce input records=700
+13/06/04 05:26:13 INFO mapred.JobClient:     Reduce input groups=19
+13/06/04 05:26:13 INFO mapred.JobClient:     Combine output records=0
+13/06/04 05:26:13 INFO mapred.JobClient:     Physical memory (bytes) snapshot=37577187328
+13/06/04 05:26:13 INFO mapred.JobClient:     Reduce output records=700
+13/06/04 05:26:13 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=271141650432
+13/06/04 05:26:13 INFO mapred.JobClient:     Map output records=70000
+Job ended: Tue Jun 04 05:26:13 CEST 2013
+The job took 31464.135 seconds.
+sample=700 run=2
+DistributedPatternSampling (scale-mapper, disc, sample700, mapper100)
+	Input paths: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/disc-datasets/census/positive.data
+	Output path: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/output/disc-census-sample700-mapper100-run2
+	Sample:	700
+	Mappers: 100
+	Reducers: 1
+	Configurations: 
+			Right dataset path: /user/s117449/disc-datasets/census/negative-expanded/negative.data-expanded-584
+			Length of lines in the right dataset: 585
+			Maiximum record length: 50
+			Minimum Pattern length: 0
+Job started: Tue Jun 04 05:26:18 CEST 2013
+13/06/04 05:26:19 INFO hdfs.DFSClient: Created HDFS_DELEGATION_TOKEN token 195485 for s117449 on 145.100.41.4:8020
+13/06/04 05:26:19 INFO security.TokenCache: Got dt for hdfs://p-head03.alley.sara.nl:8020/tmp/hadoop-mapred/mapred/staging/s117449/.staging/job_201305151711_14946;uri=145.100.41.4:8020;t.service=145.100.41.4:8020
+13/06/04 05:26:19 WARN snappy.LoadSnappy: Snappy native library is available
+13/06/04 05:26:19 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+13/06/04 05:26:19 INFO snappy.LoadSnappy: Snappy native library loaded
+13/06/04 05:26:19 INFO mapred.FileInputFormat: Total input paths to process : 1
+13/06/04 05:26:19 INFO mapred.JobClient: Running job: job_201305151711_14946
+13/06/04 05:26:20 INFO mapred.JobClient:  map 0% reduce 0%
+13/06/04 05:32:09 INFO mapred.JobClient:  map 1% reduce 0%
+13/06/04 05:37:18 INFO mapred.JobClient:  map 2% reduce 0%
+13/06/04 05:39:47 INFO mapred.JobClient: Task Id : attempt_201305151711_14946_m_000081_0, Status : FAILED
+Error launching task
+13/06/04 05:39:47 WARN mapred.JobClient: Error reading task outputServer returned HTTP response code: 401 for URL: http://p-worker35.alley.sara.nl:50060/tasklog?plaintext=true&attemptid=attempt_201305151711_14946_m_000081_0&filter=stdout
+13/06/04 05:39:47 WARN mapred.JobClient: Error reading task outputServer returned HTTP response code: 401 for URL: http://p-worker35.alley.sara.nl:50060/tasklog?plaintext=true&attemptid=attempt_201305151711_14946_m_000081_0&filter=stderr
+13/06/04 05:42:18 INFO mapred.JobClient:  map 3% reduce 0%
+13/06/04 05:47:15 INFO mapred.JobClient:  map 4% reduce 0%
+13/06/04 05:52:03 INFO mapred.JobClient:  map 5% reduce 0%
+13/06/04 05:56:47 INFO mapred.JobClient:  map 6% reduce 0%
+13/06/04 06:01:23 INFO mapred.JobClient:  map 7% reduce 0%
+13/06/04 06:05:43 INFO mapred.JobClient:  map 8% reduce 0%
+13/06/04 06:10:12 INFO mapred.JobClient:  map 9% reduce 0%
+13/06/04 06:14:56 INFO mapred.JobClient:  map 10% reduce 0%
+13/06/04 06:19:41 INFO mapred.JobClient:  map 11% reduce 0%
+13/06/04 06:24:10 INFO mapred.JobClient:  map 12% reduce 0%
+13/06/04 06:25:18 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/04 06:25:18 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/04 06:28:54 INFO mapred.JobClient:  map 13% reduce 0%
+13/06/04 06:33:27 INFO mapred.JobClient:  map 14% reduce 0%
+13/06/04 06:37:58 INFO mapred.JobClient:  map 15% reduce 0%
+13/06/04 06:42:35 INFO mapred.JobClient:  map 16% reduce 0%
+13/06/04 06:47:05 INFO mapred.JobClient:  map 17% reduce 0%
+13/06/04 06:51:38 INFO mapred.JobClient:  map 18% reduce 0%
+13/06/04 06:56:10 INFO mapred.JobClient:  map 19% reduce 0%
+13/06/04 07:00:43 INFO mapred.JobClient:  map 20% reduce 0%
+13/06/04 07:05:15 INFO mapred.JobClient:  map 21% reduce 0%
+13/06/04 07:09:47 INFO mapred.JobClient:  map 22% reduce 0%
+13/06/04 07:14:20 INFO mapred.JobClient:  map 23% reduce 0%
+13/06/04 07:18:55 INFO mapred.JobClient:  map 24% reduce 0%
+13/06/04 07:23:24 INFO mapred.JobClient:  map 25% reduce 0%
+13/06/04 07:27:59 INFO mapred.JobClient:  map 26% reduce 0%
+13/06/04 07:32:36 INFO mapred.JobClient:  map 27% reduce 0%
+13/06/04 07:37:02 INFO mapred.JobClient:  map 28% reduce 0%
+13/06/04 07:41:35 INFO mapred.JobClient:  map 29% reduce 0%
+13/06/04 07:46:15 INFO mapred.JobClient:  map 30% reduce 0%
+13/06/04 07:50:51 INFO mapred.JobClient:  map 31% reduce 0%
+13/06/04 07:55:10 INFO mapred.JobClient:  map 32% reduce 0%
+13/06/04 07:59:46 INFO mapred.JobClient:  map 33% reduce 0%
+13/06/04 08:04:29 INFO mapred.JobClient:  map 34% reduce 0%
+13/06/04 08:09:01 INFO mapred.JobClient:  map 35% reduce 0%
+13/06/04 08:13:37 INFO mapred.JobClient:  map 36% reduce 0%
+13/06/04 08:18:05 INFO mapred.JobClient:  map 37% reduce 0%
+13/06/04 08:22:42 INFO mapred.JobClient:  map 38% reduce 0%
+13/06/04 08:27:09 INFO mapred.JobClient:  map 39% reduce 0%
+13/06/04 08:31:50 INFO mapred.JobClient:  map 40% reduce 0%
+13/06/04 08:36:28 INFO mapred.JobClient:  map 41% reduce 0%
+13/06/04 08:41:03 INFO mapred.JobClient:  map 42% reduce 0%
+13/06/04 08:45:59 INFO mapred.JobClient:  map 43% reduce 0%
+13/06/04 08:50:37 INFO mapred.JobClient:  map 44% reduce 0%
+13/06/04 08:54:56 INFO mapred.JobClient:  map 45% reduce 0%
+13/06/04 08:59:34 INFO mapred.JobClient:  map 46% reduce 0%
+13/06/04 09:04:04 INFO mapred.JobClient:  map 47% reduce 0%
+13/06/04 09:08:48 INFO mapred.JobClient:  map 48% reduce 0%
+13/06/04 09:13:29 INFO mapred.JobClient:  map 49% reduce 0%
+13/06/04 09:18:58 INFO mapred.JobClient:  map 50% reduce 0%
+13/06/04 09:24:04 INFO mapred.JobClient:  map 51% reduce 0%
+13/06/04 09:29:41 INFO mapred.JobClient:  map 52% reduce 0%
+13/06/04 09:35:22 INFO mapred.JobClient:  map 53% reduce 0%
+13/06/04 09:41:23 INFO mapred.JobClient:  map 54% reduce 0%
+13/06/04 09:47:16 INFO mapred.JobClient:  map 55% reduce 0%
+13/06/04 09:52:12 INFO mapred.JobClient:  map 56% reduce 0%
+13/06/04 09:56:42 INFO mapred.JobClient:  map 57% reduce 0%
+13/06/04 10:01:16 INFO mapred.JobClient:  map 58% reduce 0%
+13/06/04 10:05:53 INFO mapred.JobClient:  map 59% reduce 0%
+13/06/04 10:10:22 INFO mapred.JobClient:  map 60% reduce 0%
+13/06/04 10:14:59 INFO mapred.JobClient:  map 61% reduce 0%
+13/06/04 10:19:43 INFO mapred.JobClient:  map 62% reduce 0%
+13/06/04 10:24:31 INFO mapred.JobClient:  map 63% reduce 0%
+13/06/04 10:29:21 INFO mapred.JobClient:  map 64% reduce 0%
+13/06/04 10:36:22 INFO mapred.JobClient:  map 65% reduce 0%
+13/06/04 10:43:26 INFO mapred.JobClient:  map 66% reduce 0%
+13/06/04 10:48:47 INFO mapred.JobClient:  map 67% reduce 0%
+13/06/04 10:53:43 INFO mapred.JobClient:  map 68% reduce 0%
+13/06/04 10:58:15 INFO mapred.JobClient:  map 69% reduce 0%
+13/06/04 11:02:55 INFO mapred.JobClient:  map 70% reduce 0%
+13/06/04 11:07:28 INFO mapred.JobClient:  map 71% reduce 0%
+13/06/04 11:12:11 INFO mapred.JobClient:  map 72% reduce 0%
+13/06/04 11:16:52 INFO mapred.JobClient:  map 73% reduce 0%
+13/06/04 11:21:30 INFO mapred.JobClient:  map 74% reduce 0%
+13/06/04 11:26:16 INFO mapred.JobClient:  map 75% reduce 0%
+13/06/04 11:31:00 INFO mapred.JobClient:  map 76% reduce 0%
+13/06/04 11:36:30 INFO mapred.JobClient:  map 77% reduce 0%
+13/06/04 11:41:38 INFO mapred.JobClient:  map 78% reduce 0%
+13/06/04 11:47:08 INFO mapred.JobClient:  map 79% reduce 0%
+13/06/04 11:53:10 INFO mapred.JobClient:  map 80% reduce 0%
+13/06/04 11:58:58 INFO mapred.JobClient:  map 81% reduce 0%
+13/06/04 12:04:55 INFO mapred.JobClient:  map 82% reduce 0%
+13/06/04 12:11:33 INFO mapred.JobClient:  map 83% reduce 0%
+13/06/04 12:18:03 INFO mapred.JobClient:  map 84% reduce 0%
+13/06/04 12:24:13 INFO mapred.JobClient:  map 85% reduce 0%
+13/06/04 12:30:42 INFO mapred.JobClient:  map 86% reduce 0%
+13/06/04 12:37:02 INFO mapred.JobClient:  map 87% reduce 0%
+13/06/04 12:42:55 INFO mapred.JobClient:  map 88% reduce 0%
+13/06/04 12:48:50 INFO mapred.JobClient:  map 89% reduce 0%
+13/06/04 12:54:33 INFO mapred.JobClient:  map 90% reduce 0%
+13/06/04 13:00:25 INFO mapred.JobClient:  map 91% reduce 0%
+13/06/04 13:06:28 INFO mapred.JobClient:  map 92% reduce 0%
+13/06/04 13:12:45 INFO mapred.JobClient:  map 93% reduce 0%
+13/06/04 13:18:47 INFO mapred.JobClient:  map 94% reduce 0%
+13/06/04 13:25:02 INFO mapred.JobClient:  map 95% reduce 0%
+13/06/04 13:32:01 INFO mapred.JobClient:  map 96% reduce 0%
+13/06/04 13:40:07 INFO mapred.JobClient:  map 97% reduce 0%
+13/06/04 13:50:28 INFO mapred.JobClient:  map 98% reduce 0%
+13/06/04 14:04:12 INFO mapred.JobClient:  map 99% reduce 0%
+13/06/04 14:38:19 INFO mapred.JobClient:  map 99% reduce 30%
+13/06/04 14:42:39 INFO mapred.JobClient:  map 99% reduce 31%
+13/06/04 14:49:03 INFO mapred.JobClient:  map 99% reduce 32%
+13/06/04 15:08:44 INFO mapred.JobClient:  map 100% reduce 32%
+13/06/04 15:08:51 INFO mapred.JobClient:  map 100% reduce 66%
+13/06/04 15:09:11 INFO mapred.JobClient:  map 100% reduce 100%
+13/06/04 15:09:19 INFO mapred.JobClient: Job complete: job_201305151711_14946
+13/06/04 15:09:20 INFO mapred.JobClient: Counters: 33
+13/06/04 15:09:20 INFO mapred.JobClient:   Job Counters 
+13/06/04 15:09:20 INFO mapred.JobClient:     Launched reduce tasks=1
+13/06/04 15:09:20 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=3094984345
+13/06/04 15:09:20 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+13/06/04 15:09:20 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+13/06/04 15:09:20 INFO mapred.JobClient:     Rack-local map tasks=96
+13/06/04 15:09:20 INFO mapred.JobClient:     Launched map tasks=101
+13/06/04 15:09:20 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=1879242
+13/06/04 15:09:20 INFO mapred.JobClient:   edu.tue.cs.capa.util.DpsCounters
+13/06/04 15:09:20 INFO mapred.JobClient:     RECORD_TUPLES=5212353256
+13/06/04 15:09:20 INFO mapred.JobClient:     SUCC_SAMPLE_TIMES=1364989
+13/06/04 15:09:20 INFO mapred.JobClient:     OVERFLOWED_TIMES=24610
+13/06/04 15:09:20 INFO mapred.JobClient:     SUCC_DRY_RUN_TIMES=1365297
+13/06/04 15:09:20 INFO mapred.JobClient:     SKIPPED_TUPLES=5211458880
+13/06/04 15:09:20 INFO mapred.JobClient:     TOTAL_DRY_RUN_TIMES=3648647279200
+13/06/04 15:09:20 INFO mapred.JobClient:   FileSystemCounters
+13/06/04 15:09:20 INFO mapred.JobClient:     FILE_BYTES_READ=1777487
+13/06/04 15:09:20 INFO mapred.JobClient:     HDFS_BYTES_READ=11208917827
+13/06/04 15:09:20 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=9689504
+13/06/04 15:09:20 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=121600
+13/06/04 15:09:20 INFO mapred.JobClient:   Map-Reduce Framework
+13/06/04 15:09:20 INFO mapred.JobClient:     Map input records=18568
+13/06/04 15:09:20 INFO mapred.JobClient:     Reduce shuffle bytes=1787697
+13/06/04 15:09:20 INFO mapred.JobClient:     Spilled Records=140000
+13/06/04 15:09:20 INFO mapred.JobClient:     Map output bytes=16361960
+13/06/04 15:09:20 INFO mapred.JobClient:     CPU time spent (ms)=2801853980
+13/06/04 15:09:20 INFO mapred.JobClient:     Total committed heap usage (bytes)=74068721664
+13/06/04 15:09:20 INFO mapred.JobClient:     Map input bytes=8852755
+13/06/04 15:09:20 INFO mapred.JobClient:     Combine input records=0
+13/06/04 15:09:20 INFO mapred.JobClient:     SPLIT_RAW_BYTES=13500
+13/06/04 15:09:20 INFO mapred.JobClient:     Reduce input records=700
+13/06/04 15:09:20 INFO mapred.JobClient:     Reduce input groups=18
+13/06/04 15:09:20 INFO mapred.JobClient:     Combine output records=0
+13/06/04 15:09:20 INFO mapred.JobClient:     Physical memory (bytes) snapshot=58328563712
+13/06/04 15:09:20 INFO mapred.JobClient:     Reduce output records=700
+13/06/04 15:09:20 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=271114919936
+13/06/04 15:09:20 INFO mapred.JobClient:     Map output records=70000
+Job ended: Tue Jun 04 15:09:20 CEST 2013
+The job took 34981.254 seconds.
+sample=700 run=3
+DistributedPatternSampling (scale-mapper, disc, sample700, mapper100)
+	Input paths: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/disc-datasets/census/positive.data
+	Output path: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/output/disc-census-sample700-mapper100-run3
+	Sample:	700
+	Mappers: 100
+	Reducers: 1
+	Configurations: 
+			Right dataset path: /user/s117449/disc-datasets/census/negative-expanded/negative.data-expanded-584
+			Length of lines in the right dataset: 585
+			Maiximum record length: 50
+			Minimum Pattern length: 0
+Job started: Tue Jun 04 15:09:25 CEST 2013
+13/06/04 15:09:27 INFO hdfs.DFSClient: Created HDFS_DELEGATION_TOKEN token 195942 for s117449 on 145.100.41.4:8020
+13/06/04 15:09:27 INFO security.TokenCache: Got dt for hdfs://p-head03.alley.sara.nl:8020/tmp/hadoop-mapred/mapred/staging/s117449/.staging/job_201305151711_15372;uri=145.100.41.4:8020;t.service=145.100.41.4:8020
+13/06/04 15:09:28 WARN snappy.LoadSnappy: Snappy native library is available
+13/06/04 15:09:28 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+13/06/04 15:09:28 INFO snappy.LoadSnappy: Snappy native library loaded
+13/06/04 15:09:28 INFO mapred.FileInputFormat: Total input paths to process : 1
+13/06/04 15:09:34 INFO mapred.JobClient: Running job: job_201305151711_15372
+13/06/04 15:09:35 INFO mapred.JobClient:  map 0% reduce 0%
+13/06/04 15:42:23 INFO mapred.JobClient:  map 1% reduce 0%
+13/06/04 15:47:41 INFO mapred.JobClient:  map 2% reduce 0%
+13/06/04 15:53:32 INFO mapred.JobClient:  map 3% reduce 0%
+13/06/04 15:59:42 INFO mapred.JobClient:  map 4% reduce 0%
+13/06/04 16:04:50 INFO mapred.JobClient:  map 5% reduce 0%
+13/06/04 16:10:08 INFO mapred.JobClient:  map 6% reduce 0%
+13/06/04 16:15:15 INFO mapred.JobClient:  map 7% reduce 0%
+13/06/04 16:20:38 INFO mapred.JobClient:  map 8% reduce 0%
+13/06/04 16:25:55 INFO mapred.JobClient:  map 9% reduce 0%
+13/06/04 16:31:13 INFO mapred.JobClient:  map 10% reduce 0%
+13/06/04 16:36:25 INFO mapred.JobClient:  map 11% reduce 0%
+13/06/04 16:41:40 INFO mapred.JobClient:  map 12% reduce 0%
+13/06/04 16:46:53 INFO mapred.JobClient:  map 13% reduce 0%
+13/06/04 16:52:08 INFO mapred.JobClient:  map 14% reduce 0%
+13/06/04 16:57:25 INFO mapred.JobClient:  map 15% reduce 0%
+13/06/04 17:02:38 INFO mapred.JobClient:  map 16% reduce 0%
+13/06/04 17:08:02 INFO mapred.JobClient:  map 17% reduce 0%
+13/06/04 17:13:10 INFO mapred.JobClient:  map 18% reduce 0%
+13/06/04 17:18:23 INFO mapred.JobClient:  map 19% reduce 0%
+13/06/04 17:23:38 INFO mapred.JobClient:  map 20% reduce 0%
+13/06/04 17:28:45 INFO mapred.JobClient:  map 21% reduce 0%
+13/06/04 17:34:00 INFO mapred.JobClient:  map 22% reduce 0%
+13/06/04 17:39:11 INFO mapred.JobClient:  map 23% reduce 0%
+13/06/04 17:44:29 INFO mapred.JobClient:  map 24% reduce 0%
+13/06/04 17:49:34 INFO mapred.JobClient:  map 25% reduce 0%
+13/06/04 17:54:45 INFO mapred.JobClient:  map 26% reduce 0%
+13/06/04 17:59:53 INFO mapred.JobClient:  map 27% reduce 0%
+13/06/04 18:05:12 INFO mapred.JobClient:  map 28% reduce 0%
+13/06/04 18:10:20 INFO mapred.JobClient:  map 29% reduce 0%
+13/06/04 18:15:37 INFO mapred.JobClient:  map 30% reduce 0%
+13/06/04 18:20:41 INFO mapred.JobClient:  map 31% reduce 0%
+13/06/04 18:26:02 INFO mapred.JobClient:  map 32% reduce 0%
+13/06/04 18:31:06 INFO mapred.JobClient:  map 33% reduce 0%
+13/06/04 18:36:14 INFO mapred.JobClient:  map 34% reduce 0%
+13/06/04 18:41:29 INFO mapred.JobClient:  map 35% reduce 0%
+13/06/04 18:46:41 INFO mapred.JobClient:  map 36% reduce 0%
+13/06/04 18:51:57 INFO mapred.JobClient:  map 37% reduce 0%
+13/06/04 18:57:06 INFO mapred.JobClient:  map 38% reduce 0%
+13/06/04 19:02:15 INFO mapred.JobClient:  map 39% reduce 0%
+13/06/04 19:07:12 INFO mapred.JobClient:  map 40% reduce 0%
+13/06/04 19:12:18 INFO mapred.JobClient:  map 41% reduce 0%
+13/06/04 19:17:34 INFO mapred.JobClient:  map 42% reduce 0%
+13/06/04 19:22:39 INFO mapred.JobClient:  map 43% reduce 0%
+13/06/04 19:27:47 INFO mapred.JobClient:  map 44% reduce 0%
+13/06/04 19:33:00 INFO mapred.JobClient:  map 45% reduce 0%
+13/06/04 19:38:42 INFO mapred.JobClient:  map 46% reduce 0%
+13/06/04 19:44:45 INFO mapred.JobClient:  map 47% reduce 0%
+13/06/04 19:50:32 INFO mapred.JobClient:  map 48% reduce 0%
+13/06/04 19:56:28 INFO mapred.JobClient:  map 49% reduce 0%
+13/06/04 20:02:06 INFO mapred.JobClient:  map 50% reduce 0%
+13/06/04 20:07:58 INFO mapred.JobClient:  map 51% reduce 0%
+13/06/04 20:13:50 INFO mapred.JobClient:  map 52% reduce 0%
+13/06/04 20:20:12 INFO mapred.JobClient:  map 53% reduce 0%
+13/06/04 20:26:08 INFO mapred.JobClient:  map 54% reduce 0%
+13/06/04 20:31:54 INFO mapred.JobClient:  map 55% reduce 0%
+13/06/04 20:38:01 INFO mapred.JobClient:  map 56% reduce 0%
+13/06/04 20:43:56 INFO mapred.JobClient:  map 57% reduce 0%
+13/06/04 20:49:52 INFO mapred.JobClient:  map 58% reduce 0%
+13/06/04 20:56:00 INFO mapred.JobClient:  map 59% reduce 0%
+13/06/04 21:02:07 INFO mapred.JobClient:  map 60% reduce 0%
+13/06/04 21:08:46 INFO mapred.JobClient:  map 61% reduce 0%
+13/06/04 21:13:59 INFO mapred.JobClient:  map 62% reduce 0%
+13/06/04 21:19:46 INFO mapred.JobClient:  map 63% reduce 0%
+13/06/04 21:25:48 INFO mapred.JobClient:  map 64% reduce 0%
+13/06/04 21:31:52 INFO mapred.JobClient:  map 65% reduce 0%
+13/06/04 21:37:58 INFO mapred.JobClient:  map 66% reduce 0%
+13/06/04 21:44:07 INFO mapred.JobClient:  map 67% reduce 0%
+13/06/04 21:50:18 INFO mapred.JobClient:  map 68% reduce 0%
+13/06/04 21:56:32 INFO mapred.JobClient:  map 69% reduce 0%
+13/06/04 22:03:03 INFO mapred.JobClient:  map 70% reduce 0%
+13/06/04 22:09:52 INFO mapred.JobClient:  map 71% reduce 0%
+13/06/04 22:15:39 INFO mapred.JobClient:  map 72% reduce 0%
+13/06/04 22:21:57 INFO mapred.JobClient:  map 73% reduce 0%
+13/06/04 22:28:16 INFO mapred.JobClient:  map 74% reduce 0%
+13/06/04 22:34:20 INFO mapred.JobClient:  map 75% reduce 0%
+13/06/04 22:40:38 INFO mapred.JobClient:  map 76% reduce 0%
+13/06/04 22:47:31 INFO mapred.JobClient:  map 77% reduce 0%
+13/06/04 22:53:51 INFO mapred.JobClient:  map 78% reduce 0%
+13/06/04 22:58:37 INFO mapred.JobClient:  map 79% reduce 0%
+13/06/04 23:04:11 INFO mapred.JobClient:  map 80% reduce 0%
+13/06/04 23:09:07 INFO mapred.JobClient:  map 81% reduce 0%
+13/06/04 23:14:09 INFO mapred.JobClient:  map 82% reduce 0%
+13/06/04 23:19:06 INFO mapred.JobClient:  map 83% reduce 0%
+13/06/04 23:24:00 INFO mapred.JobClient:  map 84% reduce 0%
+13/06/04 23:29:03 INFO mapred.JobClient:  map 85% reduce 0%
+13/06/04 23:34:07 INFO mapred.JobClient:  map 86% reduce 0%
+13/06/04 23:39:09 INFO mapred.JobClient:  map 87% reduce 0%
+13/06/04 23:44:23 INFO mapred.JobClient:  map 88% reduce 0%
+13/06/04 23:49:34 INFO mapred.JobClient:  map 89% reduce 0%
+13/06/04 23:54:44 INFO mapred.JobClient:  map 90% reduce 0%
+13/06/05 00:00:10 INFO mapred.JobClient:  map 91% reduce 0%
+13/06/05 00:05:30 INFO mapred.JobClient:  map 92% reduce 0%
+13/06/05 00:11:29 INFO mapred.JobClient:  map 93% reduce 0%
+13/06/05 00:20:35 INFO mapred.JobClient:  map 94% reduce 0%
+13/06/05 00:31:25 INFO mapred.JobClient:  map 95% reduce 0%
+13/06/05 00:41:46 INFO mapred.JobClient:  map 96% reduce 0%
+13/06/05 00:58:27 INFO mapred.JobClient:  map 97% reduce 0%
+13/06/05 01:25:58 INFO mapred.JobClient:  map 98% reduce 0%
+13/06/05 01:37:18 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/05 01:37:18 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/05 01:57:02 INFO mapred.JobClient:  map 99% reduce 0%
+13/06/05 02:18:42 INFO mapred.JobClient:  map 99% reduce 30%
+13/06/05 02:34:03 INFO mapred.JobClient:  map 99% reduce 31%
+13/06/05 02:53:50 INFO mapred.JobClient:  map 99% reduce 32%
+13/06/05 03:06:00 INFO mapred.JobClient:  map 100% reduce 32%
+13/06/05 03:06:10 INFO mapred.JobClient:  map 100% reduce 66%
+13/06/05 03:06:13 INFO mapred.JobClient:  map 100% reduce 100%
+13/06/05 03:06:14 INFO mapred.JobClient: Job complete: job_201305151711_15372
+13/06/05 03:06:14 INFO mapred.JobClient: Counters: 34
+13/06/05 03:06:14 INFO mapred.JobClient:   Job Counters 
+13/06/05 03:06:14 INFO mapred.JobClient:     Launched reduce tasks=1
+13/06/05 03:06:14 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=3489723613
+13/06/05 03:06:14 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+13/06/05 03:06:14 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+13/06/05 03:06:14 INFO mapred.JobClient:     Rack-local map tasks=80
+13/06/05 03:06:14 INFO mapred.JobClient:     Launched map tasks=100
+13/06/05 03:06:14 INFO mapred.JobClient:     Data-local map tasks=3
+13/06/05 03:06:14 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=2865340
+13/06/05 03:06:14 INFO mapred.JobClient:   edu.tue.cs.capa.util.DpsCounters
+13/06/05 03:06:14 INFO mapred.JobClient:     RECORD_TUPLES=5212353256
+13/06/05 03:06:14 INFO mapred.JobClient:     SUCC_SAMPLE_TIMES=1364914
+13/06/05 03:06:14 INFO mapred.JobClient:     OVERFLOWED_TIMES=24626
+13/06/05 03:06:14 INFO mapred.JobClient:     SUCC_DRY_RUN_TIMES=1365287
+13/06/05 03:06:14 INFO mapred.JobClient:     SKIPPED_TUPLES=5211458158
+13/06/05 03:06:14 INFO mapred.JobClient:     TOTAL_DRY_RUN_TIMES=3648647279200
+13/06/05 03:06:14 INFO mapred.JobClient:   FileSystemCounters
+13/06/05 03:06:14 INFO mapred.JobClient:     FILE_BYTES_READ=1776662
+13/06/05 03:06:14 INFO mapred.JobClient:     HDFS_BYTES_READ=11208786156
+13/06/05 03:06:14 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=9688191
+13/06/05 03:06:14 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=117529
+13/06/05 03:06:14 INFO mapred.JobClient:   Map-Reduce Framework
+13/06/05 03:06:14 INFO mapred.JobClient:     Map input records=18568
+13/06/05 03:06:14 INFO mapred.JobClient:     Reduce shuffle bytes=1787209
+13/06/05 03:06:14 INFO mapred.JobClient:     Spilled Records=140000
+13/06/05 03:06:14 INFO mapred.JobClient:     Map output bytes=16361727
+13/06/05 03:06:14 INFO mapred.JobClient:     CPU time spent (ms)=2982885190
+13/06/05 03:06:14 INFO mapred.JobClient:     Total committed heap usage (bytes)=74384867328
+13/06/05 03:06:14 INFO mapred.JobClient:     Map input bytes=8852755
+13/06/05 03:06:14 INFO mapred.JobClient:     Combine input records=0
+13/06/05 03:06:14 INFO mapred.JobClient:     SPLIT_RAW_BYTES=13500
+13/06/05 03:06:14 INFO mapred.JobClient:     Reduce input records=700
+13/06/05 03:06:14 INFO mapred.JobClient:     Reduce input groups=18
+13/06/05 03:06:14 INFO mapred.JobClient:     Combine output records=0
+13/06/05 03:06:14 INFO mapred.JobClient:     Physical memory (bytes) snapshot=47380971520
+13/06/05 03:06:14 INFO mapred.JobClient:     Reduce output records=700
+13/06/05 03:06:14 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=271147315200
+13/06/05 03:06:14 INFO mapred.JobClient:     Map output records=70000
+Job ended: Wed Jun 05 03:06:14 CEST 2013
+The job took 43008.71 seconds.
+sample=800 run=1
+DistributedPatternSampling (scale-mapper, disc, sample800, mapper100)
+	Input paths: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/disc-datasets/census/positive.data
+	Output path: 
+			hdfs://p-head03.alley.sara.nl:8020/user/s117449/output/disc-census-sample800-mapper100-run1
+	Sample:	800
+	Mappers: 100
+	Reducers: 1
+	Configurations: 
+			Right dataset path: /user/s117449/disc-datasets/census/negative-expanded/negative.data-expanded-584
+			Length of lines in the right dataset: 585
+			Maiximum record length: 50
+			Minimum Pattern length: 0
+Job started: Wed Jun 05 03:06:19 CEST 2013
+13/06/05 03:06:20 INFO hdfs.DFSClient: Created HDFS_DELEGATION_TOKEN token 196305 for s117449 on 145.100.41.4:8020
+13/06/05 03:06:20 INFO security.TokenCache: Got dt for hdfs://p-head03.alley.sara.nl:8020/tmp/hadoop-mapred/mapred/staging/s117449/.staging/job_201305151711_15721;uri=145.100.41.4:8020;t.service=145.100.41.4:8020
+13/06/05 03:06:20 WARN snappy.LoadSnappy: Snappy native library is available
+13/06/05 03:06:20 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+13/06/05 03:06:20 INFO snappy.LoadSnappy: Snappy native library loaded
+13/06/05 03:06:20 INFO mapred.FileInputFormat: Total input paths to process : 1
+13/06/05 03:06:21 INFO mapred.JobClient: Running job: job_201305151711_15721
+13/06/05 03:06:22 INFO mapred.JobClient:  map 0% reduce 0%
+13/06/05 03:38:51 INFO mapred.JobClient:  map 1% reduce 0%
+13/06/05 03:46:45 INFO mapred.JobClient:  map 2% reduce 0%
+13/06/05 03:52:43 INFO mapred.JobClient:  map 3% reduce 0%
+13/06/05 03:58:36 INFO mapred.JobClient:  map 4% reduce 0%
+13/06/05 04:04:17 INFO mapred.JobClient:  map 5% reduce 0%
+13/06/05 04:10:05 INFO mapred.JobClient:  map 6% reduce 0%
+13/06/05 04:15:46 INFO mapred.JobClient:  map 7% reduce 0%
+13/06/05 04:21:24 INFO mapred.JobClient:  map 8% reduce 0%
+13/06/05 04:27:15 INFO mapred.JobClient:  map 9% reduce 0%
+13/06/05 04:32:51 INFO mapred.JobClient:  map 10% reduce 0%
+13/06/05 04:38:33 INFO mapred.JobClient:  map 11% reduce 0%
+13/06/05 04:44:13 INFO mapred.JobClient:  map 12% reduce 0%
+13/06/05 04:49:56 INFO mapred.JobClient:  map 13% reduce 0%
+13/06/05 04:55:35 INFO mapred.JobClient:  map 14% reduce 0%
+13/06/05 05:01:10 INFO mapred.JobClient:  map 15% reduce 0%
+13/06/05 05:06:44 INFO mapred.JobClient:  map 16% reduce 0%
+13/06/05 05:12:22 INFO mapred.JobClient:  map 17% reduce 0%
+13/06/05 05:17:49 INFO mapred.JobClient:  map 18% reduce 0%
+13/06/05 05:23:35 INFO mapred.JobClient:  map 19% reduce 0%
+13/06/05 05:29:14 INFO mapred.JobClient:  map 20% reduce 0%
+13/06/05 05:34:55 INFO mapred.JobClient:  map 21% reduce 0%
+13/06/05 05:40:15 INFO mapred.JobClient:  map 22% reduce 0%
+13/06/05 05:45:57 INFO mapred.JobClient:  map 23% reduce 0%
+13/06/05 05:51:37 INFO mapred.JobClient:  map 24% reduce 0%
+13/06/05 05:57:08 INFO mapred.JobClient:  map 25% reduce 0%
+13/06/05 06:02:40 INFO mapred.JobClient:  map 26% reduce 0%
+13/06/05 06:08:20 INFO mapred.JobClient:  map 27% reduce 0%
+13/06/05 06:13:54 INFO mapred.JobClient:  map 28% reduce 0%
+13/06/05 06:19:35 INFO mapred.JobClient:  map 29% reduce 0%
+13/06/05 06:25:08 INFO mapred.JobClient:  map 30% reduce 0%
+13/06/05 06:30:45 INFO mapred.JobClient:  map 31% reduce 0%
+13/06/05 06:36:20 INFO mapred.JobClient:  map 32% reduce 0%
+13/06/05 06:41:51 INFO mapred.JobClient:  map 33% reduce 0%
+13/06/05 06:47:17 INFO mapred.JobClient:  map 34% reduce 0%
+13/06/05 06:52:55 INFO mapred.JobClient:  map 35% reduce 0%
+13/06/05 06:58:27 INFO mapred.JobClient:  map 36% reduce 0%
+13/06/05 07:03:49 INFO mapred.JobClient:  map 37% reduce 0%
+13/06/05 07:09:17 INFO mapred.JobClient:  map 38% reduce 0%
+13/06/05 07:14:44 INFO mapred.JobClient:  map 39% reduce 0%
+13/06/05 07:20:03 INFO mapred.JobClient:  map 40% reduce 0%
+13/06/05 07:25:41 INFO mapred.JobClient:  map 41% reduce 0%
+13/06/05 07:31:07 INFO mapred.JobClient:  map 42% reduce 0%
+13/06/05 07:36:24 INFO mapred.JobClient:  map 43% reduce 0%
+13/06/05 07:42:02 INFO mapred.JobClient:  map 44% reduce 0%
+13/06/05 07:47:33 INFO mapred.JobClient:  map 45% reduce 0%
+13/06/05 07:53:06 INFO mapred.JobClient:  map 46% reduce 0%
+13/06/05 07:58:45 INFO mapred.JobClient:  map 47% reduce 0%
+13/06/05 08:04:23 INFO mapred.JobClient:  map 48% reduce 0%
+13/06/05 08:09:57 INFO mapred.JobClient:  map 49% reduce 0%
+13/06/05 08:15:17 INFO mapred.JobClient:  map 50% reduce 0%
+13/06/05 08:20:35 INFO mapred.JobClient:  map 51% reduce 0%
+13/06/05 08:26:03 INFO mapred.JobClient:  map 52% reduce 0%
+13/06/05 08:31:31 INFO mapred.JobClient:  map 53% reduce 0%
+13/06/05 08:37:03 INFO mapred.JobClient:  map 54% reduce 0%
+13/06/05 08:42:22 INFO mapred.JobClient:  map 55% reduce 0%
+13/06/05 08:47:15 INFO mapred.JobClient:  map 56% reduce 0%
+13/06/05 08:52:29 INFO mapred.JobClient:  map 57% reduce 0%
+13/06/05 08:57:39 INFO mapred.JobClient:  map 58% reduce 0%
+13/06/05 09:02:57 INFO mapred.JobClient:  map 59% reduce 0%
+13/06/05 09:07:52 INFO mapred.JobClient:  map 60% reduce 0%
+13/06/05 09:12:57 INFO mapred.JobClient:  map 61% reduce 0%
+13/06/05 09:18:02 INFO mapred.JobClient:  map 62% reduce 0%
+13/06/05 09:19:58 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/05 09:19:58 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/05 09:23:13 INFO mapred.JobClient:  map 63% reduce 0%
+13/06/05 09:28:22 INFO mapred.JobClient:  map 64% reduce 0%
+13/06/05 09:33:31 INFO mapred.JobClient:  map 65% reduce 0%
+13/06/05 09:38:34 INFO mapred.JobClient:  map 66% reduce 0%
+13/06/05 09:43:40 INFO mapred.JobClient:  map 67% reduce 0%
+13/06/05 09:48:56 INFO mapred.JobClient:  map 68% reduce 0%
+13/06/05 09:54:09 INFO mapred.JobClient:  map 69% reduce 0%
+13/06/05 09:59:24 INFO mapred.JobClient:  map 70% reduce 0%
+13/06/05 10:04:39 INFO mapred.JobClient:  map 71% reduce 0%
+13/06/05 10:09:51 INFO mapred.JobClient:  map 72% reduce 0%
+13/06/05 10:15:04 INFO mapred.JobClient:  map 73% reduce 0%
+13/06/05 10:20:14 INFO mapred.JobClient:  map 74% reduce 0%
+13/06/05 10:25:17 INFO mapred.JobClient:  map 75% reduce 0%
+13/06/05 10:30:30 INFO mapred.JobClient:  map 76% reduce 0%
+13/06/05 10:35:45 INFO mapred.JobClient:  map 77% reduce 0%
+13/06/05 10:40:41 INFO mapred.JobClient:  map 78% reduce 0%
+13/06/05 10:45:33 INFO mapred.JobClient:  map 79% reduce 0%
+13/06/05 10:50:29 INFO mapred.JobClient:  map 80% reduce 0%
+13/06/05 10:52:30 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/05 10:52:30 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/05 10:55:36 INFO mapred.JobClient:  map 81% reduce 0%
+13/06/05 11:01:59 INFO mapred.JobClient:  map 82% reduce 0%
+13/06/05 11:09:19 INFO mapred.JobClient:  map 83% reduce 0%
+13/06/05 11:11:00 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/05 11:11:00 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/05 11:14:42 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:16:28 INFO mapred.JobClient:  map 84% reduce 0%
+13/06/05 11:21:00 WARN security.UserGroupInformation: Exception encountered while running the renewal command. Aborting renew thread
+org.apache.hadoop.util.Shell$ExitCodeException: kinit: Ticket expired while renewing credentials
+
+	at org.apache.hadoop.util.Shell.runCommand(Shell.java:255)
+	at org.apache.hadoop.util.Shell.run(Shell.java:182)
+	at org.apache.hadoop.util.Shell$ShellCommandExecutor.execute(Shell.java:375)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:461)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:444)
+	at org.apache.hadoop.security.UserGroupInformation$1.run(UserGroupInformation.java:728)
+	at java.lang.Thread.run(Thread.java:662)
+13/06/05 11:23:37 INFO mapred.JobClient:  map 85% reduce 0%
+13/06/05 11:30:23 INFO mapred.JobClient:  map 86% reduce 0%
+13/06/05 11:38:09 INFO mapred.JobClient:  map 87% reduce 0%
+13/06/05 11:45:49 INFO mapred.JobClient:  map 88% reduce 0%
+13/06/05 11:53:46 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:53:46 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
+13/06/05 11:53:46 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
+13/06/05 11:53:49 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:53:49 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:53:50 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:53:50 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:53:54 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:53:54 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:53:58 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:53:58 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:02 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:02 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:03 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:03 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:05 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:05 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:05 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:05 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:07 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:07 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:08 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:08 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:09 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:09 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:12 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:12 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:12 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:12 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:12 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:12 WARN security.UserGroupInformation: Not attempting to re-login since the last re-login was attempted less than 600 seconds before.
+13/06/05 11:54:14 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+13/06/05 11:54:14 WARN ipc.Client: Couldn't setup connection for s117449@ALLEY.SARA.NL to mapred/p-jobtracker.alley.sara.nl@ALLEY.SARA.NL
+13/06/05 11:54:14 ERROR security.UserGroupInformation: PriviledgedActionException as:s117449@ALLEY.SARA.NL (auth:KERBEROS) cause:java.io.IOException: Couldn't setup connection for s117449@ALLEY.SARA.NL to mapred/p-jobtracker.alley.sara.nl@ALLEY.SARA.NL
+java.io.IOException: Call to jobtracker.alley.sara.nl/145.100.41.108:8021 failed on local exception: java.io.IOException: Couldn't setup connection for s117449@ALLEY.SARA.NL to mapred/p-jobtracker.alley.sara.nl@ALLEY.SARA.NL
+	at org.apache.hadoop.ipc.Client.wrapException(Client.java:1187)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1155)
+	at org.apache.hadoop.ipc.RPC$Invoker.invoke(RPC.java:226)
+	at org.apache.hadoop.mapred.$Proxy6.getJobStatus(Unknown Source)
+	at org.apache.hadoop.mapred.JobClient$NetworkedJob.updateStatus(JobClient.java:254)
+	at org.apache.hadoop.mapred.JobClient$NetworkedJob.isComplete(JobClient.java:333)
+	at org.apache.hadoop.mapred.JobClient.monitorAndPrintJob(JobClient.java:1369)
+	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1298)
+	at edu.tue.cs.capa.dps.disc.DiscDriver.run(DiscDriver.java:99)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:79)
+	at edu.tue.cs.capa.dps.disc.DiscDriver.main(DiscDriver.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.util.ProgramDriver$ProgramDescription.invoke(ProgramDriver.java:68)
+	at org.apache.hadoop.util.ProgramDriver.driver(ProgramDriver.java:139)
+	at edu.tue.cs.capa.dps.driver.SamplingDriver.main(SamplingDriver.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:197)
+Caused by: java.io.IOException: Couldn't setup connection for s117449@ALLEY.SARA.NL to mapred/p-jobtracker.alley.sara.nl@ALLEY.SARA.NL
+	at org.apache.hadoop.ipc.Client$Connection$1.run(Client.java:546)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1278)
+	at org.apache.hadoop.ipc.Client$Connection.handleSaslConnectionFailure(Client.java:499)
+	at org.apache.hadoop.ipc.Client$Connection.setupIOstreams(Client.java:601)
+	at org.apache.hadoop.ipc.Client$Connection.access$2300(Client.java:212)
+	at org.apache.hadoop.ipc.Client.getConnection(Client.java:1292)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1121)
+	... 22 more
+Caused by: javax.security.sasl.SaslException: GSS initiate failed [Caused by GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)]
+	at com.sun.security.sasl.gsskerb.GssKrb5Client.evaluateChallenge(GssKrb5Client.java:194)
+	at org.apache.hadoop.security.SaslRpcClient.saslConnect(SaslRpcClient.java:134)
+	at org.apache.hadoop.ipc.Client$Connection.setupSaslConnection(Client.java:415)
+	at org.apache.hadoop.ipc.Client$Connection.access$1100(Client.java:212)
+	at org.apache.hadoop.ipc.Client$Connection$2.run(Client.java:594)
+	at org.apache.hadoop.ipc.Client$Connection$2.run(Client.java:591)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1278)
+	at org.apache.hadoop.ipc.Client$Connection.setupIOstreams(Client.java:590)
+	... 25 more
+Caused by: GSSException: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)
+	at sun.security.jgss.krb5.Krb5InitCredential.getInstance(Krb5InitCredential.java:130)
+	at sun.security.jgss.krb5.Krb5MechFactory.getCredentialElement(Krb5MechFactory.java:106)
+	at sun.security.jgss.krb5.Krb5MechFactory.getMechanismContext(Krb5MechFactory.java:172)
+	at sun.security.jgss.GSSManagerImpl.getMechanismContext(GSSManagerImpl.java:209)
+	at sun.security.jgss.GSSContextImpl.initSecContext(GSSContextImpl.java:195)
+	at sun.security.jgss.GSSContextImpl.initSecContext(GSSContextImpl.java:162)
+	at com.sun.security.sasl.gsskerb.GssKrb5Client.evaluateChallenge(GssKrb5Client.java:175)
+	... 34 more

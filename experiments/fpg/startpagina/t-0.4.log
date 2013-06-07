@@ -7951,3 +7951,49 @@ MAHOUT-JOB: /home/s117449/mahout-distribution-0.7/mahout-examples-0.7-job.jar
 13/06/03 09:09:20 INFO security.UserGroupInformation: Initiating logout for s117449@ALLEY.SARA.NL
 13/06/03 09:09:20 INFO security.UserGroupInformation: Initiating re-login for s117449@ALLEY.SARA.NL
 13/06/03 10:38:38 INFO mapred.JobClient:  map 100% reduce 89%
+13/06/03 13:38:57 INFO mapred.JobClient:  map 100% reduce 90%
+13/06/03 15:06:54 INFO mapred.JobClient: Job complete: job_201305151711_12338
+13/06/03 15:06:54 INFO mapred.JobClient: Counters: 22
+13/06/03 15:06:54 INFO mapred.JobClient:   Job Counters 
+13/06/03 15:06:54 INFO mapred.JobClient:     Launched reduce tasks=1
+13/06/03 15:06:54 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=81320608
+13/06/03 15:06:54 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+13/06/03 15:06:54 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+13/06/03 15:06:54 INFO mapred.JobClient:     Rack-local map tasks=60
+13/06/03 15:06:54 INFO mapred.JobClient:     Launched map tasks=100
+13/06/03 15:06:54 INFO mapred.JobClient:     Data-local map tasks=38
+13/06/03 15:06:54 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=210957952
+13/06/03 15:06:54 INFO mapred.JobClient:   FileSystemCounters
+13/06/03 15:06:54 INFO mapred.JobClient:     FILE_BYTES_READ=42886598913
+13/06/03 15:06:54 INFO mapred.JobClient:     HDFS_BYTES_READ=241203504859
+13/06/03 15:06:54 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=64319260686
+13/06/03 15:06:54 INFO mapred.JobClient:   Map-Reduce Framework
+13/06/03 15:06:54 INFO mapred.JobClient:     Combine output records=7485000
+13/06/03 15:06:54 INFO mapred.JobClient:     Map input records=461566504
+13/06/03 15:06:54 INFO mapred.JobClient:     Physical memory (bytes) snapshot=110898425856
+13/06/03 15:06:54 INFO mapred.JobClient:     Spilled Records=14670600
+13/06/03 15:06:54 INFO mapred.JobClient:     Map output bytes=60210694528
+13/06/03 15:06:54 INFO mapred.JobClient:     CPU time spent (ms)=56485470
+13/06/03 15:06:54 INFO mapred.JobClient:     Total committed heap usage (bytes)=138292559872
+13/06/03 15:06:54 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=268366557184
+13/06/03 15:06:54 INFO mapred.JobClient:     Combine input records=1944935328
+13/06/03 15:06:54 INFO mapred.JobClient:     Map output records=1937550128
+13/06/03 15:06:54 INFO mapred.JobClient:     SPLIT_RAW_BYTES=15800
+Exception in thread "main" java.lang.IllegalStateException: Job failed!
+	at org.apache.mahout.fpm.pfpgrowth.PFPGrowth.startParallelFPGrowth(PFPGrowth.java:352)
+	at org.apache.mahout.fpm.pfpgrowth.PFPGrowth.runPFPGrowth(PFPGrowth.java:245)
+	at org.apache.mahout.fpm.pfpgrowth.FPGrowthDriver.run(FPGrowthDriver.java:136)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.mahout.fpm.pfpgrowth.FPGrowthDriver.main(FPGrowthDriver.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.util.ProgramDriver$ProgramDescription.invoke(ProgramDriver.java:68)
+	at org.apache.hadoop.util.ProgramDriver.driver(ProgramDriver.java:139)
+	at org.apache.mahout.driver.MahoutDriver.main(MahoutDriver.java:195)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:197)
